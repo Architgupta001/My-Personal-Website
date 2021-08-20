@@ -1,3 +1,2 @@
- Starter project to build your first website.  
-Scaler Academy, Build a website Workshop
-https://www.scaler.com
+ Starter project to build your first website.
+ Made this website in the Scaler Academy, Build a website Workshop.
